@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Project>
+  <Desktop>
+    <Static>
+      <Debug-Log>
+        <PreferedWindows>
+          <Position>3</Position>
+          <ScreenPosX>0</ScreenPosX>
+          <ScreenPosY>0</ScreenPosY>
+          <Windows>
+            <Window>
+              <Factory>Build</Factory>
+            </Window>
+          </Windows>
+        </PreferedWindows>
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1307</ColumnWidth1></Debug-Log>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>980</ColumnWidth1><ColumnWidth2>261</ColumnWidth2><ColumnWidth3>65</ColumnWidth3></Build>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>115</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Disassembly>
+        <col-names>
+          
+          
+        <item>Disassembly</item><item>_I0</item></col-names>
+        <col-widths>
+          
+          
+        <item>500</item><item>20</item></col-widths>
+        <DisasmHistory/>
+        
+        
+      <ShowCodeCoverage>0</ShowCodeCoverage><ShowInstrProfiling>0</ShowInstrProfiling></Disassembly>
+      <Extra-Trace>
+        <PreferedWindows>
+          
+          
+          
+          
+        <Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows>
+        <col-names>
+          
+          
+          
+          
+          
+          
+          
+        <item>Comment</item><item>Cycles</item><item>Event</item><item>Index</item><item>SWO Packet</item><item>Trace</item><item>Value</item></col-names>
+        <col-widths>
+          
+          
+          
+          
+          
+          
+          
+        <item>400</item><item>100</item><item>200</item><item>70</item><item>100</item><item>300</item><item>100</item></col-widths>
+      </Extra-Trace>
+      <TerminalIO>
+        
+        
+        
+        
+        
+      <InputSource>1</InputSource><InputMode>10</InputMode><Filename>$PROJ_DIR$\TermIOInput.txt</Filename><InputEcho>1</InputEcho><ShowReset>0</ShowReset></TerminalIO>
+    <Register/><QuickWatch><col-names><item>Expression</item><item>Location</item><item>Type</item><item>Value</item></col-names><col-widths><item>100</item><item>150</item><item>100</item><item>100</item></col-widths><QWatchHistory/><PreferedWindows><Position>2</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>WATCH_1</Factory></Window></Windows></PreferedWindows></QuickWatch><WATCH_1><expressions><item>asse</item><item/></expressions><col-names><item>Expression</item><item>Location</item><item>Type</item><item>Value</item></col-names><col-widths><item>100</item><item>150</item><item>100</item><item>100</item></col-widths><PreferedWindows><Position>2</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>QuickWatch</Factory></Window></Windows></PreferedWindows></WATCH_1><PHYSBPWIN><col-names><item>#</item><item>Breakpoint</item></col-names><col-widths><item>15</item><item>560</item></col-widths></PHYSBPWIN><CallStack><col-names><item>Frame</item><item>_I0</item></col-names><col-widths><item>400</item><item>20</item></col-widths></CallStack></Static>
+    <Windows>
+      
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-19353-16049</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+          
+        <Tab><Identity>TabID-16928-17323</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab><Tab>
+            <Identity>TabID-8605-16046</Identity>
+            <TabName>Disassembly</TabName>
+            <Factory>Disassembly</Factory>
+            <Session/>
+          </Tab></Tabs>
+        
+      <SelectedTab>1</SelectedTab></Wnd0><Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-30624-16043</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>LIS302DL</ExpandedNode><ExpandedNode>LIS302DL/User</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1><Wnd3><Tabs><Tab><Identity>TabID-14532-11191</Identity><TabName>Register</TabName><Factory>Register</Factory><Session><State6>GPIOD_IDR</State6><REG1>0</REG1><REG2>0</REG2><Group>7</Group><States>6</States><State0>GPIOA_IDR</State0><State1>GPIOA_ODR</State1><State2>GPIOB_ODR</State2><State3>GPIOC_ODR</State3><State4>GPIOD_ODR</State4><State5>GPIOE_ODR</State5></Session></Tab><Tab><Identity>TabID-31118-18640</Identity><TabName>Call Stack</TabName><Factory>CallStack</Factory></Tab></Tabs><SelectedTab>1</SelectedTab></Wnd3><Wnd4><Tabs><Tab>
+            <Identity>TabID-18370-16477</Identity>
+            <TabName>Terminal I/O</TabName>
+            <Factory>TerminalIO</Factory>
+            <Session/>
+          </Tab></Tabs><SelectedTab>0</SelectedTab></Wnd4><Wnd5><Tabs><Tab><Identity>TabID-31941-20425</Identity><TabName>Breakpoint Usage</TabName><Factory>PHYSBPWIN</Factory></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd5></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_gpio.h</Filename><XPos>0</XPos><YPos>139</YPos><SelStart>5104</SelStart><SelEnd>5104</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rcc.c</Filename><XPos>0</XPos><YPos>1113</YPos><SelStart>45867</SelStart><SelEnd>45867</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_gpio.c</Filename><XPos>0</XPos><YPos>503</YPos><SelStart>11361</SelStart><SelEnd>11361</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\main.h</Filename><XPos>0</XPos><YPos>12</YPos><SelStart>1168</SelStart><SelEnd>1198</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\Utilities\STM32F4-Discovery\stm32f4_discovery.c</Filename><XPos>0</XPos><YPos>101</YPos><SelStart>3229</SelStart><SelEnd>3229</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\vcp.c</Filename><XPos>0</XPos><YPos>168</YPos><SelStart>3853</SelStart><SelEnd>3853</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\system_stm32f4xx.c</Filename><XPos>0</XPos><YPos>87</YPos><SelStart>6435</SelStart><SelEnd>6435</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\stm32f4xx_it.c</Filename><XPos>0</XPos><YPos>9</YPos><SelStart>1113</SelStart><SelEnd>1120</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>Z:\Scrivania\STM32F4COM\STM32DiscoveryVCP\usb_lib\otg\usb_dcd_int.c</Filename><XPos>0</XPos><YPos>253</YPos><SelStart>6539</SelStart><SelEnd>6539</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>Z:\Scrivania\STM32F4COM\STM32DiscoveryVCP\usb_lib\otg\usb_core.c</Filename><XPos>0</XPos><YPos>612</YPos><SelStart>15917</SelStart><SelEnd>15917</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>Z:\Scrivania\STM32F4COM\STM32DiscoveryVCP\usb_lib\cdc\usbd_cdc_vcp.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>6395</SelStart><SelEnd>6395</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\main.c</Filename><XPos>0</XPos><YPos>104</YPos><SelStart>3233</SelStart><SelEnd>3233</SelEnd></Tab><ActiveTab>11</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\Utilities\STM32F4-Discovery\stm32f4_discovery.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-0133fd10><key>iaridepm.enu1</key></Toolbar-0133fd10></Sizes></Row0><Row1><Sizes><Toolbar-080ecde0><key>armstlink.enu1</key></Toolbar-080ecde0><Toolbar-080ef058><key>debuggergui.enu1</key></Toolbar-080ef058></Sizes></Row1></Top><Left><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>464</Bottom><Right>189</Right><x>-2</x><y>-2</y><xscreen>191</xscreen><yscreen>262</yscreen><sizeHorzCX>132639</sizeHorzCX><sizeHorzCY>314149</sizeHorzCY><sizeVertCX>132639</sizeVertCX><sizeVertCY>558753</sizeVertCY></Rect></Wnd1></Sizes></Row0></Left><Right><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>464</Bottom><Right>286</Right><x>-2</x><y>-2</y><xscreen>183</xscreen><yscreen>244</yscreen><sizeHorzCX>127083</sizeHorzCX><sizeHorzCY>292566</sizeHorzCY><sizeVertCX>200000</sizeVertCX><sizeVertCY>558753</sizeVertCY></Rect></Wnd3></Sizes></Row0></Right><Bottom><Row0><Sizes><Wnd4><Rect><Top>-2</Top><Left>-2</Left><Bottom>248</Bottom><Right>658</Right><x>-2</x><y>-2</y><xscreen>660</xscreen><yscreen>250</yscreen><sizeHorzCX>458333</sizeHorzCX><sizeHorzCY>299760</sizeHorzCY><sizeVertCX>127083</sizeVertCX><sizeVertCY>292566</sizeVertCY></Rect></Wnd4><Wnd0><Rect><Top>0</Top><Left>0</Left><Bottom>0</Bottom><Right>38997608</Right><x>656</x><y>-2</y><xscreen>786</xscreen><yscreen>250</yscreen><sizeHorzCX>545833</sizeHorzCX><sizeHorzCY>299760</sizeHorzCY><sizeVertCX>132639</sizeVertCX><sizeVertCY>314149</sizeVertCY></Rect></Wnd0></Sizes></Row0><Row1><Sizes><Wnd5><Rect><Top>246</Top><Left>-2</Left><Bottom>302</Bottom><Right>1442</Right><x>-2</x><y>246</y><xscreen>1444</xscreen><yscreen>56</yscreen><sizeHorzCX>1002778</sizeHorzCX><sizeHorzCY>67146</sizeHorzCY><sizeVertCX>127083</sizeVertCX><sizeVertCY>287770</sizeVertCY></Rect></Wnd5></Sizes></Row1></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Project>
+
+

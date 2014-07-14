@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>LIS302DL/LIS302DL</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>760</ColumnWidth1><ColumnWidth2>718</ColumnWidth2><ColumnWidth3>50</ColumnWidth3></Build>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>288</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <TerminalIO><PreferedWindows><Position>4</Position><ScreenPosX>387</ScreenPosX><ScreenPosY>495</ScreenPosY><Windows/></PreferedWindows></TerminalIO>
+    <Debug-Log><ColumnWidth0>21</ColumnWidth0><ColumnWidth1>1381</ColumnWidth1></Debug-Log><Breakpoints><col-names><item>Breakpoint</item><item>_I0</item></col-names><col-widths><item>500</item><item>35</item></col-widths><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows></Breakpoints></Static>
+    <Windows>
+      
+      
+    <Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-14311-2020</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>LIS302DL</ExpandedNode><ExpandedNode>LIS302DL/User</ExpandedNode><ExpandedNode>LIS302DL/usb_lib</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-25060-2024</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-22313-20870</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_gpio.h</Filename><XPos>0</XPos><YPos>139</YPos><SelStart>5104</SelStart><SelEnd>5104</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rcc.c</Filename><XPos>0</XPos><YPos>1113</YPos><SelStart>45867</SelStart><SelEnd>45867</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_gpio.c</Filename><XPos>0</XPos><YPos>503</YPos><SelStart>11361</SelStart><SelEnd>11361</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\main.h</Filename><XPos>0</XPos><YPos>12</YPos><SelStart>1168</SelStart><SelEnd>1198</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\Utilities\STM32F4-Discovery\stm32f4_discovery.c</Filename><XPos>0</XPos><YPos>101</YPos><SelStart>3229</SelStart><SelEnd>3229</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\vcp.c</Filename><XPos>0</XPos><YPos>168</YPos><SelStart>3853</SelStart><SelEnd>3853</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\system_stm32f4xx.c</Filename><XPos>0</XPos><YPos>87</YPos><SelStart>6435</SelStart><SelEnd>6435</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\stm32f4xx_it.c</Filename><XPos>0</XPos><YPos>9</YPos><SelStart>1113</SelStart><SelEnd>1120</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>Z:\Scrivania\STM32F4COM\STM32DiscoveryVCP\usb_lib\otg\usb_dcd_int.c</Filename><XPos>0</XPos><YPos>253</YPos><SelStart>6539</SelStart><SelEnd>6539</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>Z:\Scrivania\STM32F4COM\STM32DiscoveryVCP\usb_lib\otg\usb_core.c</Filename><XPos>0</XPos><YPos>612</YPos><SelStart>15917</SelStart><SelEnd>15917</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>Z:\Scrivania\STM32F4COM\STM32DiscoveryVCP\usb_lib\cdc\usbd_cdc_vcp.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>6395</SelStart><SelEnd>6395</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\main.c</Filename><XPos>0</XPos><YPos>164</YPos><SelStart>3403</SelStart><SelEnd>3403</SelEnd></Tab><ActiveTab>11</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\Utilities\STM32F4-Discovery\stm32f4_discovery.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-0133fd10><key>iaridepm.enu1</key></Toolbar-0133fd10></Sizes></Row0><Row1><Sizes/></Row1></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>617</Bottom><Right>362</Right><x>-2</x><y>-2</y><xscreen>453</xscreen><yscreen>316</yscreen><sizeHorzCX>314583</sizeHorzCX><sizeHorzCY>378897</sizeHorzCY><sizeVertCX>252778</sizeVertCX><sizeVertCY>742206</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>173</Bottom><Right>1442</Right><x>-2</x><y>-2</y><xscreen>1444</xscreen><yscreen>175</yscreen><sizeHorzCX>1002778</sizeHorzCX><sizeHorzCY>209832</sizeHorzCY><sizeVertCX>314583</sizeVertCX><sizeVertCY>378897</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+

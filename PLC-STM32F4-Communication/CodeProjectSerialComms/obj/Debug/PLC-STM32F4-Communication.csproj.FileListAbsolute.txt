@@ -1,0 +1,10 @@
+C:\Users\Alessio\Desktop\PLC-STM32F4-Communication\CodeProjectSerialComms\bin\Debug\CodeProjectSerialComms.exe
+C:\Users\Alessio\Desktop\PLC-STM32F4-Communication\CodeProjectSerialComms\bin\Debug\CodeProjectSerialComms.pdb
+C:\Users\Alessio\Desktop\PLC-STM32F4-Communication\CodeProjectSerialComms\bin\Debug\libnodave.net.dll
+C:\Users\Alessio\Desktop\PLC-STM32F4-Communication\CodeProjectSerialComms\obj\Debug\CodeProjectSerialComms.PLCState.resources
+C:\Users\Alessio\Desktop\PLC-STM32F4-Communication\CodeProjectSerialComms\obj\Debug\CodeProjectSerialComms.SerialCommunicationForm.resources
+C:\Users\Alessio\Desktop\PLC-STM32F4-Communication\CodeProjectSerialComms\obj\Debug\CodeProjectSerialComms.Properties.Resources.resources
+C:\Users\Alessio\Desktop\PLC-STM32F4-Communication\CodeProjectSerialComms\obj\Debug\PLC-STM32F4-Communication.csproj.GenerateResource.Cache
+C:\Users\Alessio\Desktop\PLC-STM32F4-Communication\CodeProjectSerialComms\obj\Debug\CodeProjectSerialComms.exe
+C:\Users\Alessio\Desktop\PLC-STM32F4-Communication\CodeProjectSerialComms\obj\Debug\CodeProjectSerialComms.pdb
+C:\Users\Alessio\Desktop\PLC-STM32F4-Communication\CodeProjectSerialComms\obj\Debug\PLC-STM32F4-Communication.csprojResolveAssemblyReference.cache
